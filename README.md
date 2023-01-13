@@ -2,6 +2,7 @@
 
 This is a CRUD (Create, Update Delete) application created using PHP MySQL. The SQL file is contained in the Database folder. 
 
+TUTORIAL
 Check this important tutorial about the project functionality:
 Link
 
