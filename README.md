@@ -7,14 +7,11 @@ Link
 
 FILE STRUCTURE:
 
-![Project Structure](https://github.com/fredkiptui/sasakazi-crud-app/screenshots/Project_structure.jpg)
+![Project Structure](https://github.com/fredkiptui/sasakazi-crud-app/blob/main/screenshots/Project_structure.JPG)
 
 HOMEPAGE
 
-![](https://github.com/fredkiptui/sasakazi-crud-app/screenshots/homepage.jpg)
-
-
-
+![HOMEPAGE](https://github.com/fredkiptui/sasakazi-crud-app/blob/main/screenshots/homepage.JPG)
 
 ### MY SOCIALS:
 
